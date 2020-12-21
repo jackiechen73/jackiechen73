@@ -12,6 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+TODO:
+- Add icons
+    - angularjs
+    - golang
+    - java
+    - redisgraph
+    - Ruby on Rails
+- Add contact info icons
+    - linkedin
+    - email
+    - website?
+- github stats? 
+-->
 ## Hi there 👋, I'm Jackie
 
 ## I am a third year Software Engineering Student at the University of Waterloo
