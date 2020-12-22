@@ -31,8 +31,6 @@ TODO:
 
 ## I am a third year Software Engineering Student at the University of Waterloo
 
----
-
 **Pronouns**: He/Him
 
 👀 **I am currently looking** for Software Engineering Internships for Summer 2021
