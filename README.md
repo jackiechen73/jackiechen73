@@ -33,9 +33,9 @@ TODO:
 
 **Pronouns**: He/Him
 
-👀 **I am currently looking** for Software Engineering Internships for Summer 2021
+🔭 **I am currently working** as a Software Engineering Intern at [Wish](http://www.wish.com/)
 
-🙋 **I am currently working** as the Head of Engineering at [CaseCom](https://www.casecom.app/), the digital platform for any case competition
+🙋 **Check out my startup,** I am the Head of Engineering at [CaseCom](https://www.casecom.app/), the digital platform for any case competition
 
 💻 **I have previously worked as a** 
 - Back End Engineer at [ThinkData Works](https://www.thinkdataworks.com/)
