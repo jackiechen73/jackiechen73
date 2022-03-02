@@ -29,7 +29,7 @@ TODO:
 -->
 ## Hi there 👋, I'm Jackie
 
-## I am a third year Software Engineering Student at the University of Waterloo
+## I am a fourth year Software Engineering Student at the University of Waterloo
 
 **Pronouns**: He/Him
 
