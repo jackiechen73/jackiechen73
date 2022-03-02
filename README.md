@@ -33,11 +33,13 @@ TODO:
 
 **Pronouns**: He/Him
 
-🔭 **I am currently working** as a Software Engineering Intern at [Wish](http://www.wish.com/)
+🔭 **I am currently working** as a Software Engineering Intern at [Snowflake Computing](https://www.snowflake.com/)
 
-🙋 **Check out my startup,** I am the Head of Engineering at [CaseCom](https://www.casecom.app/), the digital platform for any case competition
+🙋 **An organization I am passionate about,** Hack the North, Canada's biggest Hackathon! I am currently the Logistics Team Lead for Hack the North and we are looking to bring the excitement of in-person hackathons back for our 2022 event!
 
 💻 **I have previously worked as a** 
+- Head of Engineering at [CaseCom](https://www.casecom.app/)
+- Software Engineering Intern at [Wish](http://www.wish.com/)
 - Back End Engineer at [ThinkData Works](https://www.thinkdataworks.com/)
 - Software Engineer at [ThinkData Works](https://www.thinkdataworks.com/)
 - Software Developer at [IBM](https://www.ibm.com/)
@@ -63,9 +65,9 @@ TODO:
 
 ---
 
-📓 **I am currently** in my undergraduate studies at the [University of Waterloo](https://uwaterloo.ca/) majoring in **Software Engineering** with specializations in **Artificial Intelligence** and **Human-Computer Interactions**
+📓 **I am currently** in my undergraduate studies at the [University of Waterloo](https://uwaterloo.ca/) majoring in **Software Engineering** with specializations in **Human-Computer Interactions**
 
-🌱 **On the side** I am self-teaching myself Data Science and Machine Learning
+🌱 **On the side** I am studying project management and design to compliment my software engineering background!
 
 ---
 
@@ -76,7 +78,7 @@ TODO:
 
 ---
 
-😄 **Check out** my personal portfolio at [jackiechen.me](https://jackiechen.me)
+😄 **Check out** my personal portfolio at [jackiechen.ca](https://jackiechen.ca)
 
 💬 **Reach out to me**:
 - [LinkedIn](https://www.linkedin.com/in/jackiechen73/)
