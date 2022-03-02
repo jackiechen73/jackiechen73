@@ -35,7 +35,7 @@ TODO:
 
 🔭 **I am currently working** as a Software Engineering Intern at [Snowflake Computing](https://www.snowflake.com/)
 
-🙋 **An organization I am passionate about,** Hack the North, Canada's biggest Hackathon! I am currently the Logistics Team Lead for Hack the North and we are looking to bring the excitement of in-person hackathons back for our 2022 event!
+🙋 **An organization I am passionate about,** [Hack the North]{https://hackthenorth.com/}, Canada's biggest Hackathon! I am currently the Logistics Team Lead for Hack the North and we are looking to bring the excitement of in-person hackathons back for our 2022 event!
 
 💻 **I have previously worked as a** 
 - Head of Engineering at [CaseCom](https://www.casecom.app/)
