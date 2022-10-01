@@ -33,12 +33,13 @@ TODO:
 
 **Pronouns**: He/Him
 
-🔭 **I am currently working** as a Software Engineering Intern at [Snowflake Computing](https://www.snowflake.com/)
+🔭 **I am currently working** as a Software Engineering Intern at [Persona](https://withpersona.com/)
 
 🙋 **An organization I am passionate about,** [Hack the North](https://hackthenorth.com/), Canada's biggest Hackathon! I am currently the Logistics Team Lead for Hack the North and we are looking to bring the excitement of in-person hackathons back for our 2022 event!
 
 💻 **I have previously worked as a** 
 - Head of Engineering at [CaseCom](https://www.casecom.app/)
+- Software Engineering Intern at [Snowflake Computing](https://www.snowflake.com/)
 - Software Engineering Intern at [Wish](http://www.wish.com/)
 - Back End Engineer at [ThinkData Works](https://www.thinkdataworks.com/)
 - Software Engineer at [ThinkData Works](https://www.thinkdataworks.com/)
